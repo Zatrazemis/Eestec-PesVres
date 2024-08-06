@@ -1,0 +1,26 @@
+
+
+nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 30dvh;
+    width: 80dvw;
+    margin: 0 10dvw;
+}
+
+.buttons{
+    height: 60px;
+    width: 100px;
+    color: red;
+    font-weight: bold;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100dvw;
+    background-color: red;
+}
